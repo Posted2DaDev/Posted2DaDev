@@ -24,7 +24,7 @@
 
 ### 🛠️ Tech & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=lua,nodejs,express,mongodb,js,ts,html,css,tailwind,react,next,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=angular,apollo,arch,arduino,au,aws,azure,bash,blender,boostrap,c,cs,cpp,cloudflare,cmake,codepen,coffeescript,css,debian,discord,bots,discordjs,django,eclipse,electron,figma,firebase,flask,gcp,git,github,githubactions,gmail,go,gradle,grafana,html,htmx,idea,java,js,jquery,laravel,linux,lua,mysql,nextjs,nginx,nodejs,npm,php,postgres,postman,powershell,prisma,react,raspberrypi,redis,regex,robloxstudio,sqlite,stackoverflow,supabase,sentry,svg,tailwind,ts,unity,vscode,vue" />
 </p>
 
 ---
