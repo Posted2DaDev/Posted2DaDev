@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Posted2DaDev</h1>
-<h3 align="center">Building cool things & breaking them to learn 🚀</h3>
+<h1 align="center">Hi 👋, I'm Andrew</h1>
+<h3 align="center">*Gotta break it to make it*</h3>
 
 ---
 
